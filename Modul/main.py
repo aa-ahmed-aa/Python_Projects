@@ -1,0 +1,4 @@
+
+import Other
+
+Other.test();
